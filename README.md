@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hey, I’m Brandon
+# 👋 Hi, I’m Brandon
 
 > Full-stack dev navigating the fine line between clean code and chaotic brilliance.
 
@@ -16,7 +15,7 @@
 ## 🚀 Projects I’m Building
 - 🏋️ [AthleteXpert](https://athletexpert.org) – AI-powered gear recommender for athletes, blogs, and community features
 - 🎁 [GiftWizard](https://thegiftwizard.ai) – A smarter way to give, powered by OpenAI and Amazon
-- 🧪 Betting Bot – Python sports betting model focused on +EV picks (stealth mode)
+- 🧪 Betting Bot – Python sports betting model focused on +EV picks
 
 ## 🧠 Currently Learning
 - Writing proper unit tests with Spring Boot + JUnit/Mockito
