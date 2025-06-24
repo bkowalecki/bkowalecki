@@ -18,10 +18,6 @@
 - 🎁 [GiftWizard](https://thegiftwizard.ai) – A smarter way to give, powered by OpenAI and Amazon
 - 🧪 Betting Bot – Python sports betting model focused on +EV picks (stealth mode)
 
-## 📊 GitHub Stats
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonkowalecki&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkowalecki&layout=compact&theme=tokyonight)
-
 ## 🧠 Currently Learning
 - Writing proper unit tests with Spring Boot + JUnit/Mockito
 - TypeScript advanced patterns & better state management
