@@ -1,16 +1,28 @@
 ## Hi there 👋
+# 👋 Hey, I’m Brandon
 
-<!--
-**bkowalecki/bkowalecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Full-stack dev navigating the fine line between clean code and chaotic brilliance.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects I’m Building
+- 🏋️ [AthleteXpert](https://athletexpert.org) – AI-powered gear recommender for athletes, blogs, and community features
+- 🎁 [GiftWizard](https://thegiftwizard.ai) – A smarter way to give, powered by OpenAI and Amazon
+- 🧪 Betting Bot – Python sports betting model focused on +EV picks (stealth mode)
+
+## 📊 GitHub Stats
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonkowalecki&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkowalecki&layout=compact&theme=tokyonight)
+
+## 🧠 Currently Learning
+- Writing proper unit tests with Spring Boot + JUnit/Mockito
+- TypeScript advanced patterns & better state management
+- How to not push everything straight to `main`
