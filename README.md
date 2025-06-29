@@ -20,4 +20,3 @@
 ## 🧠 Currently Learning
 - Writing proper unit tests with Spring Boot + JUnit/Mockito
 - TypeScript advanced patterns & better state management
-- How to not push everything straight to `main`
