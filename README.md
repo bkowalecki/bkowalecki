@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Brandon
 
-> Full-stack dev navigating the fine line between clean code and chaotic brilliance.
+> Full-Stack Engineer
 
 ## 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
